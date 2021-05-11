@@ -4,6 +4,9 @@
 
 Current work (*in the process of development*)
 
+- ## [Match-match-game (memory training game)](https://rolling-scopes-school.github.io/vitaliklm-JSFE2021Q1/match-match-game)
+
+09.05.2021
 - ## [Online zoo (responsive multi-page site)](https://rolling-scopes-school.github.io/vitaliklm-JSFE2021Q1/online-zoo/pages/landing/)
 
 27.04.2021
